@@ -1,0 +1,19 @@
+# Python caches
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# HuggingFace / Transformers cache
+.cache/
+huggingface/
+transformers_cache/
+models/
+model/
+checkpoint/
+tokenizer/
